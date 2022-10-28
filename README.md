@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=4500&pause=1000&color=6799F7&center=true&vCenter=true&width=1000&height=80&lines=Ol%C3%A1%2C+eu+sou+Amanda+Caroline+Bauler+Mota%2C+Bem+Vindo)](https://github.com/AmandaBauler)
 
-<table align="center">
-    <tr>
-        <td>
-            <p>😄 Meus pronomes são Ela/Dela</p>
-        </td>
-    </tr>
+<table align="center">    
     <tr>
         <td>
             <p>🚀 Sou estudante na area de desenvolvimento de software</p>
